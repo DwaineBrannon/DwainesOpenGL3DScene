@@ -1,0 +1,2 @@
+﻿  3DScene.cpp
+C:\Users\dwain\OneDrive\Documents\School\CS330\My Scene\3DScene\3DScene\3DScene.cpp(186,37): error C2065: 'gDeltaTime': undeclared identifier
